@@ -13,8 +13,10 @@
 
 ![](pictures/overview.png)
 
+<br>
 
 ![](pictures/profit-sales.png)
 
+<br>
 
 ![](pictures/profitable-products.png)
