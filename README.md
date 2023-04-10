@@ -8,7 +8,7 @@
 
 
 
-![video][https://www.loom.com/embed/1733fd7ac0fb4ec2b5a0b59136e9ca2e]
+https://www.loom.com/embed/1733fd7ac0fb4ec2b5a0b59136e9ca2e
 
 
 # Determine the Territory and Products where Priority Efforts should be Directed
@@ -25,4 +25,4 @@
 ![](pictures/profitable-products.png)
 
 
-![video](https://www.loom.com/share/1733fd7ac0fb4ec2b5a0b59136e9ca2e)
+https://www.loom.com/share/1733fd7ac0fb4ec2b5a0b59136e9ca2e
